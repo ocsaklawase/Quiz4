@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz4</string>
+    <string name="isi_form">Isi Form</string>
+    <string name="taaruf_judul">Ta\'aruf</string>
+    <string name="menikah">Menikah</string>
+    <string name="temukan_pasangan">Temukan pasangan</string>
+    <string name="melalui">melalui</string>
+    <string name="taaruf">ta\'aruf</string>
+    <string name="membangun_rumah">membangun rumah</string>
+    <string name="tangga">tangga</string>
+    <string name="sakinah">sakinah</string>
+    <string name="mulai">Mulai</string>
+    <string name="back_button">Kembali</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="v_2312_3101">v.2312-3101</string>
+    <string name="isi_form_cv">Isi Form CV</string>
+    <string name="isi_form_detil">Masukkan data dirimu pada form yang kami sediakan. Data inilah yang akan dilihat oleh peserta-peserta lain.</string>
+    <string name="dibantu_oleh_mediator">Ta\'aruf dibantu oleh mediator</string>
+    <string name="komunikasi">Jika proses ta\'aruf dimulai, mediator akan membantumu untuk komunikasi hingga nadzor dengan calon pasangan</string>
+    <string name="menikah_">Menikah!</string>
+    <string name="menikah_diidamkan">Jika kedua pihak sudah sepenuhnya yakin, semoga pernikahan yang diidamkan dapat terlaksana</string>
+</resources>
